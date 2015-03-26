@@ -1,0 +1,237 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ModalViewExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 882}}";
+			sepNavSelRange = "{1022, 0}";
+			sepNavVisRange = "{0, 832}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ModalViewExample */ = {
+		activeExec = 0;
+		executables = (
+			6EA958A1123B604000EC3159 /* ModalViewExample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ModalViewExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 564}}";
+			sepNavSelRange = "{101, 0}";
+			sepNavVisRange = "{0, 557}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ModalViewExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 700}}";
+			sepNavSelRange = "{101, 0}";
+			sepNavVisRange = "{0, 1298}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6EA958A1123B604000EC3159 /* ModalViewExample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ModalViewExample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ModalViewExample */,
+		);
+		codeSenseManager = 6EA958B7123B604400EC3159 /* Code sense */;
+		executables = (
+			6EA958A1123B604000EC3159 /* ModalViewExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					989,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305881152;
+			PBXWorkspaceStateSaveDate = 305881152;
+		};
+		perUserProjectItems = {
+			6EA958C1123B6ACC00EC3159 /* XCBuildMessageTextBookmark */ = 6EA958C1123B6ACC00EC3159 /* XCBuildMessageTextBookmark */;
+			6EA958C2123B6ACC00EC3159 /* PBXTextBookmark */ = 6EA958C2123B6ACC00EC3159 /* PBXTextBookmark */;
+			6EA958CA123B6ACD00EC3159 /* PBXTextBookmark */ = 6EA958CA123B6ACD00EC3159 /* PBXTextBookmark */;
+			6EA958CB123B6ACD00EC3159 /* PBXTextBookmark */ = 6EA958CB123B6ACD00EC3159 /* PBXTextBookmark */;
+			6EA958CC123B6ACD00EC3159 /* PBXTextBookmark */ = 6EA958CC123B6ACD00EC3159 /* PBXTextBookmark */;
+			6EA958CD123B6ACD00EC3159 /* XCBuildMessageTextBookmark */ = 6EA958CD123B6ACD00EC3159 /* XCBuildMessageTextBookmark */;
+			6EA958CE123B6ACD00EC3159 /* PBXTextBookmark */ = 6EA958CE123B6ACD00EC3159 /* PBXTextBookmark */;
+			6EA958D1123B6B5500EC3159 /* PBXTextBookmark */ = 6EA958D1123B6B5500EC3159 /* PBXTextBookmark */;
+			6EA958D2123B6B5500EC3159 /* PBXTextBookmark */ = 6EA958D2123B6B5500EC3159 /* PBXTextBookmark */;
+			6EA958D3123B6B5500EC3159 /* PBXTextBookmark */ = 6EA958D3123B6B5500EC3159 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6EA958B6123B604400EC3159 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6EA958A1123B604000EC3159 /* ModalViewExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ModalViewExample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6EA958B6123B604400EC3159 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6EA958B7123B604400EC3159 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6EA958B9123B653400EC3159 /* SampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 564}}";
+			sepNavSelRange = "{91, 0}";
+			sepNavVisRange = "{0, 323}";
+		};
+	};
+	6EA958BA123B653400EC3159 /* SampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 564}}";
+			sepNavSelRange = "{325, 0}";
+			sepNavVisRange = "{0, 499}";
+		};
+	};
+	6EA958C1123B6ACC00EC3159 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Property 'dismissViewButton' requires method '-dismissViewButton' to be defined - use @synthesize, @dynamic or provide a method implementation";
+		fRef = 6EA958BA123B653400EC3159 /* SampleViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 33;
+		rType = 1;
+	};
+	6EA958C2123B6ACC00EC3159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6EA958BA123B653400EC3159 /* SampleViewController.m */;
+		name = "SampleViewController.m: 62";
+		rLen = 0;
+		rLoc = 494;
+		rType = 0;
+		vrLen = 140;
+		vrLoc = 1406;
+	};
+	6EA958CA123B6ACD00EC3159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6EA958B9123B653400EC3159 /* SampleViewController.h */;
+		name = "SampleViewController.h: 16";
+		rLen = 8;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	6EA958CB123B6ACD00EC3159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ModalViewExampleViewController.h */;
+		name = "ModalViewExampleViewController.h: 20";
+		rLen = 0;
+		rLoc = 548;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	6EA958CC123B6ACD00EC3159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ModalViewExampleViewController.m */;
+		name = "ModalViewExampleViewController.m: 82";
+		rLen = 0;
+		rLoc = 1439;
+		rType = 0;
+		vrLen = 1382;
+		vrLoc = 1354;
+	};
+	6EA958CD123B6ACD00EC3159 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Property 'dismissViewButton' requires method '-dismissViewButton' to be defined - use @synthesize, @dynamic or provide a method implementation";
+		fRef = 6EA958BA123B653400EC3159 /* SampleViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 33;
+		rType = 1;
+	};
+	6EA958CE123B6ACD00EC3159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6EA958BA123B653400EC3159 /* SampleViewController.m */;
+		name = "SampleViewController.m: 41";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 928;
+		vrLoc = 618;
+	};
+	6EA958D1123B6B5500EC3159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6EA958B9123B653400EC3159 /* SampleViewController.h */;
+		name = "SampleViewController.h: 16";
+		rLen = 8;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	6EA958D2123B6B5500EC3159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6EA958BA123B653400EC3159 /* SampleViewController.m */;
+		name = "SampleViewController.m: 41";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 928;
+		vrLoc = 618;
+	};
+	6EA958D3123B6B5500EC3159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6EA958BA123B653400EC3159 /* SampleViewController.m */;
+		name = "SampleViewController.m: 14";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 1095;
+		vrLoc = 0;
+	};
+}
